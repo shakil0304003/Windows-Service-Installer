@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Installer">
+</Property><Property Name="Solution File" Value="D:\Astha Project\Installer\Installer.sln">
+</Property><Property Name="User Options File" Value="D:\Astha Project\Installer\Installer.suo">
+</Property><Property Name="Date" Value="Thursday, August 05, 2010">
+</Property><Property Name="Time" Value="14:06 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Installer.sln" Description="File successfully backed up as D:\Astha Project\Installer\Backup\Installer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Installer.suo" Description="File successfully backed up as D:\Astha Project\Installer\Backup\Installer.suo">
+</Event><Event ErrorLevel="0" Project="Installer" Source="Installer\Installer.csproj" Description="Project file successfully backed up as D:\Astha Project\Installer\Backup\Installer\Installer.csproj">
+</Event><Event ErrorLevel="0" Project="Installer" Source="Installer\Form1.cs" Description="File successfully backed up as D:\Astha Project\Installer\Backup\Installer\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Installer" Source="Installer\Form1.Designer.cs" Description="File successfully backed up as D:\Astha Project\Installer\Backup\Installer\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Installer" Source="Installer\Program.cs" Description="File successfully backed up as D:\Astha Project\Installer\Backup\Installer\Program.cs">
+</Event><Event ErrorLevel="0" Project="Installer" Source="Installer\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Astha Project\Installer\Backup\Installer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Installer" Source="Installer\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Astha Project\Installer\Backup\Installer\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Installer" Source="Installer\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Astha Project\Installer\Backup\Installer\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Installer" Source="Installer\Properties\Settings.settings" Description="File successfully backed up as D:\Astha Project\Installer\Backup\Installer\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Installer" Source="Installer\Form1.resx" Description="File successfully backed up as D:\Astha Project\Installer\Backup\Installer\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Installer" Source="Installer\Properties\Resources.resx" Description="File successfully backed up as D:\Astha Project\Installer\Backup\Installer\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Installer" Source="Installer\Installer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Installer" Source="Installer\Installer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Installer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Installer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Installer" Source="Installer\Installer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
